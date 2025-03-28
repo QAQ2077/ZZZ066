@@ -2,7 +2,7 @@
 
 
 # hxd
-DOMAIN,hxd.as174.de,DIRECT
+# DOMAIN,hxd.as174.de
 DOMAIN,cf.bili.rip
 DOMAIN,emby.as174.de
 
@@ -36,11 +36,11 @@ DOMAIN,emby.jiingzhe.pro
 DOMAIN,entry.zox.show
 
 # 404
-DOMAIN,ashtv.huajia.xyz,DIRECT
+# DOMAIN,ashtv.huajia.xyz
 DOMAIN-SUFFIX,tv.ash.yt
 
 # 卡戎
 DOMAIN,play.charontv.com
 
 # 69yun
-DOMAIN,emby.69yun69.com,DIRECT
+# DOMAIN,emby.69yun69.com
