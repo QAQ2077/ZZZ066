@@ -9,6 +9,8 @@ DOMAIN,v1.uhdnow.com
 DOMAIN,line.xmsl.org
 DOMAIN,vip4.jellyfin.asia
 DOMAIN-SUFFIX,998903.xyz
+DOMAIN,pili.994959.xyz
+DOMAIN,caddy.pilipili.me
 
 # API
 DOMAIN,api.dandanplay.net
