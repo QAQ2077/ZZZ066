@@ -34,6 +34,8 @@ DOMAIN,emby.jiingzhe.pro
 
 # Zox
 DOMAIN,entry.zox.show
+DOMAIN,cf.zox.show
+DOMAIN-SUFFIX,zox.show
 
 # 404
 # DOMAIN,ashtv.huajia.xyz
